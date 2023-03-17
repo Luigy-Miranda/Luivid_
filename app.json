@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Luivid",
+    "slug": "Luivid",
+    "version": "1.0.11",
+    "orientation": "default",
+    "icon": "./assets/adaptive-icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png"
+      },
+      "package": "com.lmirandas.Luivid",
+      "versionCode": 27
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "061c5170-9fcd-4a77-a9fe-9fe5c5948c1e"
+      }
+    }
+  }
+}

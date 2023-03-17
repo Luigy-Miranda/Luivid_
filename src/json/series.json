@@ -1,0 +1,605 @@
+
+  {
+    
+    "0":{
+      "id": 0,
+      "title" : "Ant-Man y la Avispa: QuantumaníaI",
+      "autor" : "Marvel Studios",
+      "genero" : "Acción/Aventura",
+      "id_g": 1,
+      "ano" : "2023",
+      "portada": "https://www.vitalthrills.com/wp-content/uploads/2022/10/ant-man-and-the-wasp-960x646.jpg.webp",
+      "imagen": "https://lumiere-a.akamaihd.net/v1/images/amwq_teaser_printed_1-sht_v4_lg_3026db79.jpeg?region=0,0,1688,2500",
+      "url" : "https://watchfun.fun/bu/?key=goaRPWSvWyyZ1OFekFRvq4ZtgMXKOjqHoxE3MwfsX0BeFPTCKGwxFb8I8nc0PWCN_ghh_9w5S3VqPY6xEkyf6OO-tyt-lERchi1rz9aAo3q3vcAA2plthqwZMJU46jaGeSKb3Y1G"
+    },
+    
+    "1":{
+      "id": 1,
+      "title" : "Avatar: El sentido del agua",
+      "autor" : "Century Studio",
+      "genero" : "Acción/Aventura",
+      "id_g": 1,
+      "ano" : "2022",
+      "portada": "https://static.esplay.io/movie/gallery/original/198vrF8k7mfQ4FjDJsBmdQcaiyq.webp",
+      "imagen": "https://static.esplay.io/movie/cover/original/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#639b9118b0d850baba86e6f1"
+    },
+    "2":{
+      "id":2,
+      "title" : "Pantera Negra: Wakanda por siempre",
+      "autor" : "Marvel Studios",
+      "genero" : "Acción/Aventura",
+      "id_g": 1,
+      "ano" : "2022",
+      "portada": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_1440x810/public/media/image/2022/10/black-panther-wakanda-forever-2831723.jpg?itok=2GpMfMWK",
+      "imagen": "https://static.esplay.io/movie/cover/original/mYpT2R7639KvKZ668uoQGS2QNFp.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#6371ecc6b0d850baba2ac5c0"
+    },
+    "3" :{
+      "id": 3,
+      "title" : "Gato con Botas: El último deseo",
+      "autor" : "Universal Studios",
+      "genero" : "Comedia/Aventura",
+      "id_g": 4,
+      "ano" : "2022",
+      "portada": "https://static.esplay.io/movie/gallery/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.webp",
+      "imagen": "https://static.esplay.io/movie/cover/original/6aQfiKqi19Orx4fhoICSib58xzx.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#639561cfb0d850baba00db3a"
+    },
+    "4" :{
+      "id": 4,
+      "title" : "Thor: Love and Thunder",
+      "autor" : "Marvel Studios",
+      "genero" : "Acción/Aventura",
+      "id_g": 1,
+      "ano" : "2022",
+      "portada": "https://gnula.nu/wp-content/uploads/2022/07/Thor_Love_and_Thunder_poster_usa.jpg",
+      "imagen": "https://gnula.nu/wp-content/uploads/2022/07/Thor_Love_and_Thunder_poster_usa.jpg",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#62c860fa08bf06cf5a608c14"
+    },
+
+    "5" :{
+      "id": 5,
+      "title" : "The Batman",
+      "autor" : "Warner Bros",
+      "genero" : "Acción/Crimen",
+      "id_g": 1,
+      "ano" : "2022",
+      "portada": "https://www.ecartelera.com/carteles/11100/11185/001.jpg",
+      "imagen": "https://www.ecartelera.com/carteles/11100/11185/001.jpg",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#6224843d5a10b27921fa527d"
+    },
+    "6" :{
+      "id": 6,
+      "title" : "Lightyear",
+      "autor" : "Disney",
+      "genero" : "Acción/Aventura",
+      "id_g": 4,
+      "ano" : "2022",
+      "portada":"https://www.ecartelera.com/carteles/16600/16616/005_p.jpg",
+      "imagen": "https://lumiere-a.akamaihd.net/v1/images/p_243_ster_lightyear_9209f1b3.jpeg",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#62b0919608bf06cf5a16ffc3"
+    },
+    "7" :
+    {
+      "id": 7,
+      "title" : "Actividad Paranormal 7: Vínculos Familiares",
+      "autor" : "Universal Studios",
+      "genero" : "Terror/Thriller",
+      "id_g": 2,
+      "ano" : "2021",
+      "portada": "https://lumiere-a.akamaihd.net/v1/images/actividad_paranormal_v_nculos_familiares-826300116-larg_4543123e.jpeg?region=0,0,864,1080",
+      "imagen": "https://lumiere-a.akamaihd.net/v1/images/actividad_paranormal_v_nculos_familiares-826300116-larg_4543123e.jpeg?region=0,0,864,1080",
+      "url":"https://pelisplus.icu/play?id=MTI1Mzgw&option=castell"
+    },
+    "8" :{
+      "id": 8,
+      "title" : "Jeepers Creepers: Reborn",
+      "autor" : "Screen Media Films",
+      "genero" : "Terror",
+      "id_g": 2,
+      "ano" : "2022",
+      "portada": "https://cp.noimgs.net/static/img/_cover/fc518e386d9ff132f50eeb7f599470b9.jpg",
+      "imagen": "https://cp.noimgs.net/static/img/_cover/fc518e386d9ff132f50eeb7f599470b9.jpg",
+      "url" : "https://vanfem.com/v/5jo4xx-y0xv"
+    },
+    "9" :{
+      "id": 9,
+      "title" : "El retorno de las brujas 2",
+      "autor" : "Disney",
+      "genero" : "Comedia",
+      "id_g": 3,
+      "ano" : "2022",
+      "portada": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2022/10/04/el-retorno-de-las-brujas-2.jpeg",
+      "imagen": "https://es.web.img2.acsta.net/pictures/22/09/10/13/31/5132052.jpg",
+      "url" : "https://pelisplay.cc/play?id=MTYyODA0&option=castell"
+    },
+    "10" :{
+      "id": 10,
+      "title" : "Halloween: La Noche Final",
+      "autor" : "Blumhouse Productions",
+      "genero" : "Terror",
+      "ano" : "2022",
+      "id_g": 2,
+      "portada": "https://moviecrue.com/wp-content/uploads/2022/07/0x0.jpg",
+      "imagen": "https://image.tmdb.org/t/p/w154/tQstTS2Q3ZaeWu3fsGDDIr0EBnW.jpg",
+      "url" : "https://pelisplay.cc/play?id=MTYyNzkz&option=castell"
+    },
+    "11" :{
+      "id": 11,
+      "title" : "La Huérfana: El Origen",
+      "autor" : "Universal Studios",
+      "genero" : "Terror",
+      "id_g": 2,
+      "ano" : "2022",
+      "portada": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmf6y-31qQJfvS_XTJMf1EI8ICecvX93gNx6yWrhgUx-ulq6nrm4GNE8IIb0KWbMIhs3eFXxw_57XabYyDXLTV3oyCaYnPEEQB08Nvv48Xeqgr6sMc47VFQeqyI1WZ7gFsS6kwS44kkc_7qbtd38-mPTDSoofMOWObmG2NFOeliHy5REeVaFVZdlAf/s1600/la%20huerfana%20el%20origen.jpg",
+      "imagen": "https://image.tmdb.org/t/p/w154/nODIZa8p2Y31CKlp5JS0LFRmeXF.jpg",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#6303a3cbcebd8b4e88c0691c"
+    },
+    "12" :{
+      "id": 12,
+      "title" : "El Exorcismo De Dios",
+      "autor" : "Saban Films",
+      "genero" : "Terror",
+      "id_g": 2,
+      "ano" : "2021",
+      "portada": "https://image.tmdb.org/t/p/w154/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg",
+      "imagen": "https://image.tmdb.org/t/p/w154/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg",
+      "url" : "https://pelisplus.icu/play?id=MTQ2MDE0&option=castell"
+    },
+    "13" :{
+      "id": 13,
+      "title" : "[REC]",
+      "autor" : "Filmax",
+      "genero" : "Terror",
+      "id_g": 2,
+      "ano" : "2007",
+      "portada": "https://cp.noimgs.net/static/img/_cover/b5359515f629192b1f7d6f5642f67362.jpg",
+      "imagen": "https://cp.noimgs.net/static/img/_cover/b5359515f629192b1f7d6f5642f67362.jpg",
+      "url" : "https://uqload.com/embed-emdc0k529adv.html"
+    },
+    "14" :{
+      "id": 14,
+      "title" : "Rec 2",
+      "autor" : "Filmax",
+      "genero" : "Terror",
+      "id_g": 2,
+      "ano" : "2009",
+      "portada": "https://cp.noimgs.net/static/img/_cover/70f6815bd341aa078fd0e206a2899606.jpg",
+      "imagen": "https://cp.noimgs.net/static/img/_cover/70f6815bd341aa078fd0e206a2899606.jpg",
+      "url" : "https://uqload.com/embed-pk06y8e6ngxp.html"
+    },
+    "15" :{
+      "id": 15,
+      "title" : "[•REC]³: Génesis",
+      "autor" : "Filmax",
+      "genero" : "Terror",
+      "id_g": 2,
+      "ano" : "2012",
+      "portada": "https://cp.noimgs.net/static/img/_cover/70fe4cf0abe94597cbf9a65407f947a3.jpg",
+      "imagen": "https://cp.noimgs.net/static/img/_cover/70fe4cf0abe94597cbf9a65407f947a3.jpg",
+      "url" : "https://uqload.com/embed-cvq5rfiks6bt.html"
+    },
+    "16":{
+      "id": 16,
+      "title" : "La Casa del Terror",
+      "autor" : "Sierra Pictures",
+      "genero" : "Terror",
+      "id_g": 2,
+      "ano" : "2019",
+      "portada": "https://r.pictux.net/img/movies/0htb64m315_min.jpg",
+      "imagen": "https://r.pictux.net/img/movies/0htb64m315_min.jpg",
+      "url" : "https://www.repelis2.co/player.php?file=3d6ae7cb69398cadc453cf32b22efd68f36dd133fca28e9a3287730b339e8f46029593585f0f35b9d829302898ab5ef49a33be5c3caee56d6fbf46191d564af9d816ceec4a7a&play=1"
+    },
+    "17":{
+      "id": 17,
+      "title" : "Una Loca Película Épica",
+      "autor" : "Regency",
+      "genero" : "Comedia",
+      "id_g": 3,
+      "ano" : "2007",
+      "portada": "https://img.chilango.com/2010/12/epic-movie-pequena-obra-maestra.jpg",
+      "imagen": "https://www.ecured.cu/images/c/c5/Loca_peli.jpg",
+      "url" : "https://feurl.com/v/w3441an-50m7204"
+    },
+    "18":{
+      "id": 18,
+      "title" : "  El Conjuro 2",
+      "autor" : "Warner Bros",
+      "genero" : "Terror",
+      "id_g": 2,
+      "ano" : "2016",
+      "portada": "https://img.repelis.id/cover/el-conjuro-2.jpg",
+      "imagen": "https://img.repelis.id/cover/el-conjuro-2.jpg",
+      "url" : "https://pelisplay.cc/play?id=MjY4MDE=&option=latin"
+    },
+    "19":{
+      "id": 19,
+      "title" : "Spider-Man: Sin camino a casa",
+      "autor" : "Marvel Studios",
+      "genero" : "Acción/Aventura",
+      "id_g": 1,
+      "ano" : "2021",
+      "portada": "https://sm.ign.com/t/ign_es/screenshot/default/maxresdefault-29_ccvn.960.jpg",
+      "imagen": "https://mx.web.img3.acsta.net/c_310_420/pictures/21/11/25/18/23/3142881.jpg",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#61bb411a6b5a399d4c755959"
+
+    },
+    "20":{
+      "id":20,
+      "title" : "VHS 99",
+      "autor" : "SHUDDER",
+      "genero" : "Terror",
+      "id_g": 2,
+      "ano" : "2022",
+      "portada": "https://gnula.nu/wp-content/uploads/2022/10/Black_Adam_poster_usa.jpg",
+      "imagen": "https://bloghorror.com/wp-content/uploads/2022/10/VHS-99-2022_4.jpg",
+      "url" : "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTN3azhpbDFzZjh6Lmh0bWw="
+    },
+    "21":{
+      "id": 21,
+      "title" : "Spider-Man: Lejos de Casa",
+      "autor" : "Marvel Studios",
+      "genero" : "Acción/Aventura",
+      "id_g": 1,
+      "ano" : "2021",
+      "portada": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/spiderman-lejos-de-casa-poster-berlin-londres-1553528518.jpg",
+      "imagen": "https://cp.noimgs.net/static/img/_cover/fe337c20a93873172b1ecf699b0a3924.jpg",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fab6f486dc51d7b5d86768a"
+
+    },
+    "22":{
+      "id": 22,
+      "title" : "17 Otra Vez",
+      "autor" : "Offspring Entertainment",
+      "genero" : "Acción/Aventura",
+      "id_g": 3,
+      "ano" : "2009",
+      "portada": "https://occ.a.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZnvZTZ6YmYFfRQl6vhg1eUXIpU-tmdfLciZCfwdMweXMxAMGEiYgo3diYRKbDYMKNLOvhvvAZsP-kTQaSxOyZy-uU23KoPsVwUb.jpg?r=cf0",
+      "imagen": "https://www.ecartelera.com/carteles/3100/3151/001.jpg",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fab6f486dc51d7b5d86768a"
+    },
+    "23":{
+      "id": 23,
+      "title" : "Pinocho",
+      "autor" : "Disney",
+      "genero" : "Aventura",
+      "id_g": 4,
+      "ano" : "2022",
+      "portada": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/08/pinocho.jpeg?fit=2160%2C1404&quality=60&strip=all&ssl=1",
+      "imagen": "https://static.esplay.io/movie/cover/original/cXXix7dnvzB918LHnsz2yZWoZCM.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#632299793f88ee3c6fc85eef"
+    },
+    "24":{
+      "id": 24,
+      "title" : "Desencantada: Vuelve Giselle",
+      "autor" : "Disney",
+      "genero" : "Comedia",
+      "id_g": 3,
+      "ano" : "2022",
+      "portada": "https://areajugones.sport.es/wp-content/uploads/2022/11/desencantada-vuelve-giselle.jpeg",
+      "imagen": "https://static.esplay.io/movie/cover/original/6NveXOU3wlkbBrk4lR4noumF1fx.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#6377d850b0d850baba80bf9a"
+    },
+    "25":{
+      "id": 25,
+      "title" : "Sonic 2: La Película",
+      "autor" : "SEGA",
+      "genero" : "Animacion",
+      "id_g": 4,
+      "ano" : "2022",
+      "portada": "https://r.pictux.net/img/movies/1wu1kfx8j5_min.jpg",
+      "imagen": "https://r.pictux.net/img/movies/1wu1kfx8j5_min.jpg",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus#6248663d2a496c5acee1f7be"
+    },
+    "26":{
+      "id": 26,
+      "title" : "Más allá del universo",
+      "autor" : "Netflix",
+      "genero" : "Romantica",
+      "id_g": 1,
+      "ano" : "2022",
+      "portada": "https://static.esplay.io/movie/cover/original/jv8PbopI3r3p0HrQJbLYcOzFHle.webp",
+      "imagen": "https://static.esplay.io/movie/cover/original/jv8PbopI3r3p0HrQJbLYcOzFHle.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#635b3abeb0d850baba86a1d1"
+    },
+    "27":{
+      "id": 27,
+      "title" : "Moonfall",
+      "autor" : "Lionsgate",
+      "genero" : "Aventura",
+      "id_g": 1,
+      "ano" : "2022",
+      "portada": "https://www.monsieurvintage.com/photos/2021/09/moonfall-metropolitan-3.jpg",
+      "imagen": "https://static.esplay.io/movie/cover/original/noe4dNuEbqj7xIjgOFkTOohRsNC.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#620bf8cb331594e11f2f162d"
+    },
+    "28":{
+      "id": 28,
+      "title" : "Sonic",
+      "autor" : "SEGA",
+      "genero" : "Animación",
+      "id_g": 4,
+      "ano" : "2020",
+      "portada": "https://as01.epimg.net/meristation/imagenes/2020/02/13/noticias/1581570253_649770_1581570368_noticia_normal.jpg",
+      "imagen": "https://static.esplay.io/movie/cover/original/68ccd438a539fe6821c84026407ad01f.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fc682233f7c6e1ff51c0352"
+    },
+    "29":{
+      "id": 29,
+      "title" : "Condorito: La Película",
+      "autor" : "ARONNAX Studios",
+      "genero" : "Animación",
+      "id_g": 4,
+      "ano" : "2017",
+      "portada": "https://www.latercera.com/resizer/s-tInhLzf22abr2p5z_bMf5t1xg=/768x0/smart/filters:quality(70):format(webp):no_upscale()/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/2GYEVYCJNJC2NKNHYJB32RPRHA.jpg",
+      "imagen": "https://static.esplay.io/movie/cover/original/64961471679f7947e6833a6e476e5df0.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fad99396dc51d7b5d87e4db"
+    },
+    "30":{
+      "id": 30,
+      "title" : "Black Adam",
+      "autor" : "Warner Bros",
+      "genero" : "Accion",
+      "id_g": 1,
+      "ano" : "2022",
+      "portada": "https://gnula.nu/wp-content/uploads/2022/10/Black_Adam_poster_usa.jpg",
+      "imagen": "https://gnula.nu/wp-content/uploads/2022/10/Black_Adam_poster_usa.jpg",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus#63595589b0d850babaac19d3"
+    },
+    "31":{
+      "id": 31,
+      "title" : "Jurassic World: Dominion",
+      "autor" : "Universal Studios",
+      "genero" : "Accion",
+      "id_g": 1,
+      "ano" : "2022",
+      "portada": "https://www.eluniverso.com/resizer/l89qPKe4Q9-gSyE7cIy4cq7Qa54=/1348x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/YXE2SS2IY5GX3BMYQE6EOIXWGA.jpg",
+      "imagen": "https://static.esplay.io/movie/cover/original/sXeWfpT1EhG7f4uBouqraOhmouH.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus#63595589b0d850babaac19d3"
+    },
+    "32":{
+      "id": 32,
+      "title" : "Dragon Ball Super: Super Hero",
+      "autor" : "Toei Animation",
+      "genero" : "Animación",
+      "id_g": 4,
+      "ano" : "2022",
+      "portada": "https://as01.epimg.net/meristation/imagenes/2022/08/29/reportajes/1661776193_537651_1661776334_noticia_normal_recorte1.jpg",
+      "imagen": "https://static.esplay.io/movie/cover/original/gPwXtxnEgppVaMsrpPNajw1K7LH.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#6303a908cebd8b4e88c41808"
+    },
+    "33":{
+      "id": 33,
+      "title" : "Sing 2: ¡Ven y canta de nuevo!",
+      "autor" : "Universal Studios",
+      "genero" : "Animación",
+      "id_g": 4,
+      "ano" : "2021",
+      "portada": "https://showland.tv/wp-content/uploads/2022/01/SIng-2-1.jpg",
+      "imagen": "https://static.esplay.io/movie/cover/original/gR2o0LBWq32oGdIVqeIloO3KDxY.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#61abf406d84ee3d6047d5e1e"
+    },
+    "34":{
+      "id": 34,
+      "title" : "La Liga de la Justicia de Zack Snyder",
+      "autor" : "DC",
+      "genero" : "Accion",
+      "id_g": 1,
+      "ano" : "2021",
+      "portada": "https://static01.nyt.com/images/2017/11/17/arts/17justiceleague-2/17justiceleague-2-jumbo.jpg?quality=75&auto=webp",
+      "imagen": "https://static.esplay.io/movie/cover/original/rkuvJnamPl3xW9wKJsIS6qkmOCW.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#6053b11fa2d359ef24c99f5b"
+    },
+    "35":{
+      "id": 35,
+      "title" : "El Fantasma de Mi Novia",
+      "autor" : "Studio QUITASUEÑO",
+      "genero" : "Comedia",
+      "id_g": 3,
+      "ano" : "2018",
+      "portada": "https://scontent.fgye11-1.fna.fbcdn.net/v/t1.6435-9/44515350_1781670998625209_7723633134276706304_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9267fe&_nc_ohc=oxpXDKC_IqIAX_2YwQE&_nc_ht=scontent.fgye11-1.fna&oh=00_AfB8rDvGcA2hlt-aLG3a87knAbZ54RX-CnC6m-LhAKLp2Q&oe=639F0D76",
+      "imagen": "https://static.esplay.io/movie/cover/original/0ba490e1f0269e831cf1307f8749bc19.webp",
+      "url" : "https://player.esplay.io/?1668787480984&sbx=0&ref=pelisplus2#/https://www.fembed.com/v/d-jqqaxnpgqnmml"
+    },
+    "36":{
+      "id": 36,
+      "title" : "Doctor Strange en el Multiverso de la Locura",
+      "autor" : "Marvel Studios",
+      "genero" : "Acción/Aventura",
+      "id_g": 1,
+      "ano" : "2022",
+      "portada": "https://i.blogs.es/6589ee/wallpapersden.com_doctor-strange-in-the-multiverse-of-madness-4k_1920x1080/1366_2000.jpg",
+      "imagen": "https://img.repelis.id/cover/doctor-strange-en-el-multiverso-de-la-locura.png",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus#6275056c08bf06cf5ac0b0d3"
+    },
+    "37":{
+      "id": 37,
+      "title" : "Luca",
+      "autor" : "Disney",
+      "genero" : "Animación",
+      "id_g": 4,
+      "ano" : "2021",
+      "portada": "https://i.blogs.es/dd22b4/cartel-luca/1366_2000.jpeg",
+      "imagen": "https://static.esplay.io/movie/cover/original/pr06RihHOGE3waZQx5fs2WYUdwr.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#60cf6fc5c004e7b172287104"
+    },
+    "38":{
+      "id": 38,
+      "title" : "Scary Movie",
+      "autor" : "DIMENSION FILMS",
+      "genero" : "Comedia",
+      "id_g": 3,
+      "ano" : "2000",
+      "portada": "https://imagenes.20minutos.es/files/gallery_desktop_default_content/uploads/imagenes/2020/07/06/scary-movie-2000.jpeg",
+      "imagen": "https://static.esplay.io/movie/cover/original/65aeeef6fc5c8fbd3f872e93f0b5cc33.webp",
+      "url" : "https://nuuuppp.online/watch/7kz7nmKxJoeo4U8fHo3NEZd9MRtzF7kz71OtFGyFnIZqlZbec?h="
+    },
+    "39":{
+      "id": 39,
+      "title" : "Annabelle",
+      "autor" : "Warner Bros",
+      "genero" : "Terror",
+      "id_g": 2,
+      "ano" : "2014",
+      "portada": "https://www.prensalibre.com/wp-content/uploads/2020/08/84ce749b-2d20-41c7-9187-bd6a7f01b8ce.jpg",
+      "imagen": "https://static.esplay.io/movie/cover/original/4829cc8bca589aa2e8d250308b28e607.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5facf5306dc51d7b5d878f71"
+    },
+    "40":{
+      "id": 40,
+      "title" : "Annabelle 2: La Creación",
+      "autor" : "Warner Bros",
+      "genero" : "Terror",
+      "id_g": 2,
+      "ano" : "2017",
+      "portada": "https://www.aciprensa.com/imagespp/Annabelle2_DominioPblico_150817.jpg",
+      "imagen": "https://static.esplay.io/movie/cover/original/5cc17dca925045520cf3380c81ba8c65.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5facbce06dc51d7b5d876e14"
+    },
+    "41":{
+      "id": 41,
+      "title" : "Annabelle 3: Vuelve a casa",
+      "autor" : "Warner Bros",
+      "genero" : "Terror",
+      "id_g": 2,
+      "ano" : "2019",
+      "portada": "https://www.cinepremiere.com.mx/wp-content/uploads/2019/06/annabelle-3-viene-a-casa-primeras-reacciones-1024x559.jpg",
+      "imagen": "https://static.esplay.io/movie/cover/original/3ZZB2UHGK2iqj4XYgmivkeCgGJn.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#6100c1c927e0614f06a9f98b"
+    },
+    "42":{
+      "id": 42,
+      "title" : "La Era De Hielo: Las Aventuras de Buck",
+      "autor" : "Disney",
+      "genero" : "Animación",
+      "id_g": 4,
+      "ano" : "2022",
+      "portada": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/16638268BAD0682862E270776375E9438E21BDF4FACD965C09BC988CD29CCB73/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "imagen": "https://static.esplay.io/movie/cover/original/iJDPnoZ7IafVxrxq0qRUsoBINoR.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#61f4fb1bfd40f9efd6c3df59"
+    },
+    "43":{
+      "id": 43,
+      "title" : "Troll",
+      "autor" : "Netflix",
+      "genero" : "Acción/Aventura",
+      "id_g": 1,
+      "ano" : "2022",
+      "portada": "https://lacentral24.com/wp-content/uploads/2020/08/Trollhunter.jpg",
+      "imagen": "https://static.esplay.io/movie/cover/original/va8XjMa6kSH2vGWK5QNL7F73xrk.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#63890ac9b0d850baba6fa783"
+    },
+    "44":{
+      "id": 44,
+      "title" : "Free Guy: Tomando el control",
+      "autor" : "Century Studio",
+      "genero" : "Acción/Aventura",
+      "id_g": 1,
+      "ano" : "2021",
+      "portada": "https://www.justwatch.com/images/backdrop/250585298/s1440/free-guy.webp",
+      "imagen": "https://static.esplay.io/movie/cover/original/vtsYPZi7bxVHhKnhENhiIz44Xlt.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#6117d23c27e0614f06cce1a5"
+    },
+    "45":{
+      "id": 45,
+      "title" : "Camino hacia el terror: La Fundación",
+      "autor" : "The H Collective",
+      "genero" : "Terror",
+      "id_g": 2,
+      "ano" : "2021",
+      "portada": "https://www.themoviedb.org/t/p/original/6XVqVAMOsKL5C26pHesiAawuGYW.jpg",
+      "imagen": "https://static.esplay.io/movie/cover/original/17425750717811eb9d0f55d239745b29.webp",
+      "url" : "https://player.esplay.io/?1670038371503&sbx=0&ref=pelisplus2#/https://streamsb.net/e/mwzs5o64qo1k.html"
+    },        
+    "46":{
+      "id": 46,
+      "title" : "Hotel Transilvania 4: Transformanía",
+      "autor" : "Sony",
+      "genero" : "Animación",
+      "id_g": 1,
+      "ano" : "2022",
+      "portada": "https://www.newslinereport.com/online/nota_hotel-transylvania-4-debutaria-directo-en-streaming-tras-un-acuerdo-por-usd-100-millones.jpg",
+      "imagen": "https://static.esplay.io/movie/cover/original/pwSlzCAynIF6aEP7oxWddo7Kng2.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#61e2e0bcfd40f9efd61c5b23"
+    },        
+    "47":{
+      "id": 47,
+      "title" : "Pinocho de Guillermo del Toro",
+      "autor" : "Guillermo del Toro's Pinocchio",
+      "genero" : "Animación",
+      "id_g": 4,
+      "ano" : "2022",
+      "portada": "https://gatopardo.com/wp-content/uploads/2022/11/pinocho_alonso_diaz_de_la_vega_cine_gatopardo_interior_08-1280x845.png",
+      "imagen": "https://static.esplay.io/movie/cover/original/hVa3OCfwqFm6K3Sk6IF68cYr7uk.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#6394640fb0d850bababb59e5"
+    },
+    "48" :{
+      "id": 48,
+      "title" : "Minions: Nace un villano",
+      "autor" : "Universal Studios",
+      "genero" : "Comedia/Aventura",
+      "id_g": 4,
+      "ano" : "2022",
+      "portada": "https://sorprendete.pe/wp-content/uploads/2022/06/Minions-2-2.jpg",
+      "imagen": "https://i.pinimg.com/736x/e2/2f/0e/e22f0e32b529aa4ead81e1f0623f1150.jpg",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#62c307a208bf06cf5a08c676"
+    },
+    "49" :{
+      "id": 49,
+      "title" : "Chip y Chop: Los guardianes rescatadores",
+      "autor" : "Disney",
+      "genero" : "Comedia",
+      "id_g": 3,
+      "ano" : "2022",
+      "portada": "https://static.esplay.io/movie/gallery/original/qK7Ssnrfvrt65F66A1thvehfQg2.webp",
+      "imagen": "https://static.esplay.io/movie/cover/original/cVE6Mop3gCqIZfnQEkvGV2rG0IM.webp",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#628e896f08bf06cf5adae6b3"
+    },
+    "50":{
+      "id": 50,
+      "title" : "Scream VI",
+      "autor" : "Paramount Pictures",
+      "genero" : "Terror/Thriller",
+      "id_g": 2,
+      "ano" : "2023",
+      "portada": "https://img.europapress.es/fotoweb/fotonoticia_20230310165152_640.webp",
+      "imagen": "https://tmdbcdn2.fun/sys/poster/umwy778d94cqn531xxsz8s2i4kyghx62atr7r-m.jpg",
+      "url" : "https://watchfun.fun/bu/?key=DWshubKU_ghh_YzRQ4q4fByv5UP16jAW5obvZbjYkvxNF1KJiPHVr-tyt-nwwF2VrKdkJbjkC2SKL0KvIqRaH2_ghh_QbbssJpxmaTQuK4w-tyt-_ghh_g9KszgUwissRh5kxSX-tyt-aAKot-tyt-cYNxma"
+    },
+    "51" :{
+      "id": 51,
+      "title" : "Black Phone",
+      "autor" : "Universal Studios",
+      "genero" : "Terror/Thriller",
+      "id_g": 2,
+      "ano" : "2022",
+      "portada": "https://gnula.nu/wp-content/uploads/2022/07/The_Black_Phone_poster_usa.jpg",
+      "imagen": "https://gnula.nu/wp-content/uploads/2022/07/The_Black_Phone_poster_usa.jpg",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#62c5a82d08bf06cf5a36bff3"
+    },
+    "52" :{
+      "id": 52,
+      "title" : "65",
+      "autor" : "Sony",
+      "genero" : "Acción/Aventura",
+      "id_g": 1,
+      "ano" : "2023",
+      "portada": "https://megustaelcine.com/wp-content/uploads/2023/03/65-1.jpeg",
+      "imagen": "https://tmdbcdn2.fun/sys/poster/54hnm5px4rsqwduqa9n9q1uo2k5mn7fj1mwehc2-m.jpg",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#62c5a82d08bf06cf5a36bff3"
+    },
+    "53" :{
+      "id": 53,
+      "title" : "The Cloverfield Paradox",
+      "autor" : "Paramount Pictures",
+      "genero" : "Acción/Aventura",
+      "id_g": 1,
+      "ano" : "2023",
+      "portada": "https://filmfilicos.com/wp-content/uploads/2018/03/the-cloverfield-paradox.jpg",
+      "imagen": "https://pics.filmaffinity.com/the_cloverfield_paradox-826341140-large.jpg",
+      "url" : "https://pelisplus.esplay.io/player.html?ref=pelisplus2#62c5a82d08bf06cf5a36bff3"
+    }
+  }
+
+  
